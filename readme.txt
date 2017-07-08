@@ -5,3 +5,4 @@ test branch or new line & master branch modify this line & feature1 modify too.
 Space dev edit old line want to no-ff merge.
 Change last line on dev.
 Space dev add new line.
+Space 2 dev branch add some words.
